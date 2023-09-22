@@ -1,6 +1,6 @@
 # Oi! Sou Venicius um aventureiro no mundo da tecnologia.
 
-## Atualmente tenho conhecimento nessas tecnologias:
+## Atualmente tenho conhecimento em:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
