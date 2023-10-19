@@ -1,4 +1,5 @@
-# Oi! Sou Venicius um aventureiro no mundo da tecnologia.
+# Oi! Sou Venicius um apaixonado por ciência de dados.
+<img src="https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47mdb09bq0is6bdc9v8ekuydosi6wq111gqayawomy&ep=v1_gifs_related&rid=giphy.gif" width="300" height="250"  align="right"/>
 
 ## Atualmente tenho conhecimento em:
 
@@ -34,4 +35,4 @@
 - [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum).
 
 # ***Estou sempre aberto a aprender novas tecnologias.***
-![Eu](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91MjUzcnpxYWh4a2lyc3V0dDdzZHBxaDJ6d2NiMXhiNmRnN3ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91MjUzcnpxYWh4a2lyc3V0dDdzZHBxaDJ6d2NiMXhiNmRnN3ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
