@@ -26,8 +26,8 @@
 
 ## Guia rápido:
 ### 👨🏻‍💻 Desenvolvimento de software:
-- [Software de gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
-- [controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho).
+- [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
+- [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho).
 ### 🤖 Análise de dados/Machine learning:
 - Em breve.
 ### 🕵️‍♂️Extração de dados web:
