@@ -30,7 +30,7 @@
 - [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
 - [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho).
 ### 🤖 Análise de dados/Machine learning:
-- Em breve.
+- [Random forest regression](https://github.com/Vi-n1/ChicagoHousePricePrediction)
 ### 🕵️‍♂️Extração de dados web:
 - [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum).
 
