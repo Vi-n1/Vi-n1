@@ -27,12 +27,12 @@
 
 ## Guia rápido:
 ### 👨🏻‍💻 Desenvolvimento de software:
-- [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
-- [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho).
+- [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem) (Python);
+- [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho) (Python).
 ### 🤖 Análise de dados/Machine learning:
-- [Random forest regression](https://github.com/Vi-n1/ChicagoHousePricePrediction)
+- [Random forest regression](https://github.com/Vi-n1/ChicagoHousePricePrediction) (R).
 ### 🕵️‍♂️Extração de dados web:
-- [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum).
+- [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum) (Python).
 
 # ***Estou sempre aberto a aprender novas tecnologias.***
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91MjUzcnpxYWh4a2lyc3V0dDdzZHBxaDJ6d2NiMXhiNmRnN3ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
