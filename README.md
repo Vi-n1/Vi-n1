@@ -33,7 +33,7 @@
 - [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho) (Python).
 ### 🤖 Análise de dados/Machine learning:
 - [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction) (R);
-- [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/DrugClassificationRandomForest) (Python).
+- [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
 ### 🕵️‍♂️Extração de dados web:
 - [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum) (Python).
 
