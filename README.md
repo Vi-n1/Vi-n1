@@ -31,6 +31,7 @@
 ### 👨🏻‍💻 Desenvolvimento de software:
 - [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem) (Python);
 - [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho) (Python).
+- [Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload) (Python).
 ### 🤖 Análise de dados/Machine learning:
 - [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction) (R);
 - [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
