@@ -1,4 +1,4 @@
-# Oi, Sou Venicius! um apaixonado por ciência de dados.
+# 𝓞𝓲, 𝓢𝓸𝓾 𝓥𝓮𝓷𝓲𝓬𝓲𝓾𝓼! 𝓾𝓶 𝓪𝓹𝓪𝓲𝔁𝓸𝓷𝓪𝓭𝓸 𝓹𝓸𝓻 𝓬𝓲ê𝓷𝓬𝓲𝓪 𝓭𝓮 𝓭𝓪𝓭𝓸𝓼.
 <img src="https://media3.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47mdb09bq0is6bdc9v8ekuydosi6wq111gqayawomy&ep=v1_gifs_related&rid=giphy.gif" width="300" height="250"  align="right"/>
 
 ## Atualmente tenho conhecimento em:
