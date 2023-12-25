@@ -6,16 +6,16 @@
 ### Linguagens de programação:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
-![Static Badge](https://img.shields.io/badge/Avan%C3%A7ado-%23003171)
+![->](https://img.shields.io/badge/--%3E-%23003171)
+![Avançado](https://img.shields.io/badge/Avan%C3%A7ado-%23003171)
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
-![Static Badge](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
+![->](https://img.shields.io/badge/--%3E-%23003171)
+![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
-![Static Badge](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
+![->](https://img.shields.io/badge/--%3E-%23003171)
+![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
 
 ### Bibliotecas e Framework:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,9 +37,13 @@
 
 ## Guia rápido:
 ### 👨🏻‍💻 Desenvolvimento de software:
-- [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem) (Python);
-- [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho) (Python).
-- [Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload) (Python).
+
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) ![numpy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243&link=https%3A%2F%2Fgithub.com%2FVi-n1%2FVGymSystem) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/4e2320bf-eca0-4894-af33-35067374e8cd" width="20" height="20"/> [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem).
+  
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/bc1d646b-f706-4d7c-b915-146fd694f27e" width="20" height="20"/> <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho).
+
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/601b884a-6c39-4ed2-b282-f62ea25d42a2" width="60" height="20"/> [Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload).
+
 ### 🤖 Análise de dados/Machine learning:
 - [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction) (R);
 - [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
