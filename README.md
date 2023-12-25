@@ -4,9 +4,18 @@
 ## Atualmente tenho conhecimento em:
 
 ### Linguagens de programação:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
+![Static Badge](https://img.shields.io/badge/Avan%C3%A7ado-%23003171)
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
+![Static Badge](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/--%3E-%23003171)
+![Static Badge](https://img.shields.io/badge/Intermedi%C3%A1rio-%23003171)
 
 ### Bibliotecas e Framework:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
