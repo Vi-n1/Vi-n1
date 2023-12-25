@@ -47,10 +47,10 @@
 ### 🤖 Análise de dados/Machine learning:
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" width="30" height="20"/> ![Static Badge](https://img.shields.io/badge/-white?logo=tidyverse&logoColor=%231A162D&label=tidyverse&labelColor=white) [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction);
 
-- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification).
 
 ### 🕵️‍♂️Extração de dados web:
-- [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum) (Python).
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum).
 
 # ***Estou sempre aberto a aprender novas tecnologias.***
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91MjUzcnpxYWh4a2lyc3V0dDdzZHBxaDJ6d2NiMXhiNmRnN3ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
