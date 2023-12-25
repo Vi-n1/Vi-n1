@@ -38,7 +38,7 @@
 ## Guia rápido:
 ### 👨🏻‍💻 Desenvolvimento de software:
 
-- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) ![numpy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243&link=https%3A%2F%2Fgithub.com%2FVi-n1%2FVGymSystem) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/4e2320bf-eca0-4894-af33-35067374e8cd" width="20" height="20"/> [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/4e2320bf-eca0-4894-af33-35067374e8cd" width="20" height="20"/> [Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
   
 - ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![qt](https://img.shields.io/badge/-white?logo=qt&logoColor=%232341CD5) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/bc1d646b-f706-4d7c-b915-146fd694f27e" width="20" height="20"/> <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> [Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho);
 
@@ -47,7 +47,7 @@
 ### 🤖 Análise de dados/Machine learning:
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" width="30" height="20"/> ![Static Badge](https://img.shields.io/badge/-white?logo=tidyverse&logoColor=%231A162D&label=tidyverse&labelColor=white) [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction);
 
-- [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification) (Python).
 
 ### 🕵️‍♂️Extração de dados web:
 - [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum) (Python).
