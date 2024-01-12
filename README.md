@@ -5,12 +5,12 @@
 
 ### Linguagens de programação:
 
-| Linguagem  | Nível |
-| ------------- | ------------- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  | ![Avançado](https://img.shields.io/badge/Avan%C3%A7ado-blue?style=for-the-badge) |
-| ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-blue?style=for-the-badge) |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-blue?style=for-the-badge) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)| ![Iniciante](https://img.shields.io/badge/Iniciante-blue?style=for-the-badge) |
+|                                       Linguagem                                                          |                                    Nível                                                   |
+|                                     -------------                                                        |                                -------------                                               |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    | ![Avançado](https://img.shields.io/badge/Avan%C3%A7ado-blue?style=for-the-badge)           |
+| ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)            | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-blue?style=for-the-badge) |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)            | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-blue?style=for-the-badge) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)| ![Iniciante](https://img.shields.io/badge/Iniciante-blue?style=for-the-badge)              |
 
 ### Bibliotecas e Framework:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,7 +43,10 @@
 ### 🤖 Análise de dados/Machine learning:
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" width="30" height="20"/> ![Static Badge](https://img.shields.io/badge/-white?logo=tidyverse&logoColor=%231A162D&label=tidyverse&labelColor=white) [Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction);
 
-- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification).
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) ![NumPy](https://img.shields.io/badge/-white?logo=numpy&logoColor=%23013243) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) [Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification);
+
+- ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/d4f9ff1c-9aef-4768-b4f0-e63b978e2119" width="20" height="20"/> ![scikit-learn](https://img.shields.io/badge/-white?logo=scikitlearn&logoColor=%23F7931E) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/bc1d646b-f706-4d7c-b915-146fd694f27e" width="20" height="20"/> [Regressão logística binária](https://github.com/Vi-n1/LungCancerClassificationAndPrediction).
+
 
 ### 🕵️‍♂️Extração de dados web:
 - ![python](https://img.shields.io/badge/-white?logo=python&logoColor=%233776AB) ![Pandas](https://img.shields.io/badge/-white?logo=pandas&logoColor=%23150458) <img src="https://github.com/Vi-n1/Vi-n1/assets/138793693/e6020a39-95e8-4a1e-b90d-4ffa47b40f28" width="20" height="20"/> [Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum).
