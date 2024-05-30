@@ -41,7 +41,7 @@
 
 - [(Python) Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload)
 
-### 🤖 Análise de dados/Machine learning:
+### 🤖 Machine learning/Deep learning:
 - [(R) Previsão de preços de casas em Chicago - Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction)
 
 - [(Python) Classificação de Medicamentos - Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification)
