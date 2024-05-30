@@ -35,25 +35,27 @@
 ## Guia rápido:
 ### 👨🏻‍💻 Desenvolvimento de software:
 
-- [(Python) Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem);
+- [(Python) Gerenciamento para academia](https://github.com/Vi-n1/VGymSystem)
   
-- [(Python) Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho);
+- [(Python) Controle de orçamento pessoal](https://github.com/Vi-n1/CadeMeuDinheirinho)
 
-- [(Python) Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload).
+- [(Python) Baixa vídeos/músicas do YouTube](https://github.com/Vi-n1/VYTDownload)
 
 ### 🤖 Análise de dados/Machine learning:
-- [(R) Previsão de preços de casas em Chicago - Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction);
+- [(R) Previsão de preços de casas em Chicago - Regressão utilizando florestas aleatórias](https://github.com/Vi-n1/ChicagoHousePricePrediction)
 
-- [(Python) Classificação de Medicamentos - Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification);
+- [(Python) Classificação de Medicamentos - Classificação utilizando florestas aleatórias](https://github.com/Vi-n1/Drug_Classification)
 
-- [(Python) Classificação e previsão do câncer de pulmão - Classificação utilizando Regressão logística binária](https://github.com/Vi-n1/LungCancerClassificationAndPrediction);
+- [(Python) Classificação e previsão do câncer de pulmão - Classificação utilizando Regressão logística binária](https://github.com/Vi-n1/LungCancerClassificationAndPrediction)
 
-- [(Python) Detecção de fraude em cartões de crédito - Classificação utilizando Regressão logística binária e Naive Bayes](https://github.com/Vi-n1/Credit_card_fraud_detection).
+- [(Python) Detecção de fraude em cartões de crédito - Classificação utilizando Regressão logística binária e Naive Bayes](https://github.com/Vi-n1/Credit_card_fraud_detection)
+
+- [(Python) Detecção de Fraude em Cartões de Crédito - Com Redes Neurais Profundas e Oversampling](https://github.com/Vi-n1/Credit-Card-Fraud-Detection-DNN-Over-Sampling)
 
 ### 🕵️‍♂️Extração de dados web:
-- [(Python) Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum);
+- [(Python) Dados de placas de vídeo](https://github.com/Vi-n1/AnalisePrecosKabum)
 
-- (Python) PyHltvStats em breve.
+- (Python) PyHltvStats em breve
 
 # ***Estou sempre aberto a aprender novas tecnologias.***
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm91MjUzcnpxYWh4a2lyc3V0dDdzZHBxaDJ6d2NiMXhiNmRnN3ZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
